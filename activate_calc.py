@@ -1,3 +1,1 @@
-import subprocess
-
-subprocess.run(["calc.exe"])
+import subprocess; subprocess.run(["calc.exe"])
